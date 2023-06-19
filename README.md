@@ -1,7 +1,10 @@
 # THE NEWSLETTER SIGNUP
 
-Stay updated with the latest news and insights from our company by subscribing to our newsletter. You'll receive monthly emails with valuable tips, industry trends, product updates, and more. Enter your name and email address below and click the subscribe button.This signup is connected with another repository named "BLOG APPLICATION"
+Stay updated with the latest news and insights from our company by subscribing to our newsletter. You'll receive monthly emails with valuable tips, industry trends, product updates, and more. Enter your name and email address below and click the subscribe button. This signup is connected with another repository named "BLOG APPLICATION"
 
+## Live Demo
+The live demo link is attached below.
+[THE NEWSLETTER SIGNUP](https://rich-ruby-trout-tux.cyclic.app/)
 
 ## Built with
 
